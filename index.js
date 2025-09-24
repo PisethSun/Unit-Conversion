@@ -46,8 +46,8 @@ displayResult.addEventListener("click", function(event) {
       ${value} gallons = ${gallonsToLiters.toFixed(3)} liters 
     `;
     kiloToPounds.textContent = `
-       ${value} kg = ${kiloToPound.toFixed(3)} lbs |
-       ${value} lbs = ${poundToKilo.toFixed(3)} kg
+       ${value} kilos = ${kiloToPound.toFixed(3)} pounds |
+       ${value} pounds = ${poundToKilo.toFixed(3)} kilos
     `;
   } else {
     
@@ -57,3 +57,4 @@ displayResult.addEventListener("click", function(event) {
 });
    
      
+

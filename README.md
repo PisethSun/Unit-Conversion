@@ -22,6 +22,11 @@ CSS
 
 JavaScript
 
-## <a href="https://unit-converterv1.netlify.app/">Demo </a>
+## Demo- Click on Image
 
-<img src="UnitConverter.png" >
+<a href="https://unit-converterv1.netlify.app/" target="_blank"><img src="UnitConverter.png" ></a>
+
+
+
+
+
